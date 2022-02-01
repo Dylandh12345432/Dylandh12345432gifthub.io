@@ -1,0 +1,40 @@
+h1 {
+color:blue;
+font-family:helvetica;
+background-color:white;
+border:5px solid yellow;
+padding:10px;
+}
+
+p {
+  color:pink;
+}
+
+body {
+  background-color:red;
+}
+
+h3 {
+  color:green;
+  font-family:monospace;
+}
+
+img {
+  border: 5px solid fuchsia;
+  width:70%;
+  height:70%;
+  margin-left:100px;
+}
+
+#highlight {
+  color:white;
+  background-color: black;
+  border:5px
+}
+
+h1 {
+  color:black;
+  background:white;
+  font-family:"Gill Sans";
+  text-transform: uppercase;
+}
